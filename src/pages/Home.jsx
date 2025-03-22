@@ -1,4 +1,5 @@
 import "../App.css";
+import aiImage from "../assets/ai-image.png"
 function Home() {
   return (
     <div>
@@ -23,7 +24,7 @@ function Home() {
         </div>
       </main>
       <div className="aiImgContainer w-full min-h-screen ">
-        <img src="src/assets/ai-image.png" alt="ai image" />
+        <img src={aiImage} alt="ai image" />
       </div>
     </div>
   );
