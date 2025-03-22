@@ -5,9 +5,8 @@ function Home() {
       <main>
         <div className="heroSection bg-[url(./assets/heroSection.jpg)] w-full min-h-screen bg-center bg-no-repeat bg-cover text-center">
           <h1
-            className=" text-white font-bold text-3xl md:text-4xl lg:text-5xl pt-20 md:pt-40 xl:pt-60
- px-4 md:px-8 lg:px-16 xl:px-32 leading-tight md:leading-relaxed lg:leading-loose xl:leading-14 "
-          >
+            className=" text-white font-bold text-3xl md:text-4xl lg:text-5xl pt-28 md:pt-40 xl:pt-60
+ px-4 md:px-8 lg:px-16 xl:px-32 leading-tight md:leading-relaxed lg:leading-loose xl:leading-14 ">
             Apply for Government Exams Easily with AI Assistance!
           </h1>
           <p
