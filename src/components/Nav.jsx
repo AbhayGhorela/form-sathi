@@ -33,7 +33,7 @@ function Nav() {
             <ul className="flex items-center gap-16">
                 {links.map((link,index)=>{
                   const isActive = link.path === location.pathname
-                  return <Link to={link.path} key={index} className={`${isActive?'text-green-400 border-b-2 border-green-400':''} capitalize font-medium hover:text-green-400 transition-all`}>{link.name}</Link>
+                  return <Link to={link.path} key={index} className={`${isActive?'text-red-500 border-b-2 border-red-500':''} capitalize font-medium hover:text-red-500 transition-all`}>{link.name}</Link>
                   
                 })}
             </ul>
