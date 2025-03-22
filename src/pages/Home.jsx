@@ -19,7 +19,7 @@ function Home() {
             effort!
           </p>
 
-          <button className="bg-black text-white px-4 md:px-12 lg:px-16 xl:px-24 py-2 md:py-4 lg:py-6 xl:py-7 rounded-full font-semibold text-sm md:text-base lg:text-lg xl:text-xl">Get Started</button>
+          <button className="bg-black text-white px-6 md:px-12 lg:px-16 xl:px-24 py-2 md:py-4 lg:py-6 xl:py-7 rounded-full font-semibold text-sm md:text-base lg:text-lg xl:text-xl">Get Started</button>
         </div>
       </main>
     </div>
